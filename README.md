@@ -1,6 +1,6 @@
 
 
-![imagen][https://pbs.twimg.com/profile_images/949184752359264256/yeBJursX_400x400.jpg]
+![imagen](https://pbs.twimg.com/profile_images/949184752359264256/yeBJursX_400x400.jpg)
 
 # VSApp - Vida Solidaria App
 
