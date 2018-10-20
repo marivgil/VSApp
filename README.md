@@ -20,9 +20,9 @@ La aplicación tiene como finalidad facilitar las tareas de gestión de las dist
 
 ![Documentación](https://github.com/marivgil/VSApp/wiki/Entrega-2)
 
-![Tag BackEnd]()
+![Tag BackEnd](https://github.com/marivgil/VSApp-Backend/releases/tag/Entrega2)
 
-![Tag FrontEnd]()
+![Tag FrontEnd](https://github.com/marivgil/VSApp-Frontend/releases/tag/Entrega2)
 
 ### Entrega 3
 
