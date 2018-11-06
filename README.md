@@ -35,4 +35,4 @@ La aplicación tiene como finalidad facilitar las tareas de gestión de las dist
 
 ### Entrega 4
 
-![Tag FrontEnd](https://github.com/marivgil/VSApp/wiki/Entrega-4)
+![Documentación](https://github.com/marivgil/VSApp/wiki/Entrega-4)
